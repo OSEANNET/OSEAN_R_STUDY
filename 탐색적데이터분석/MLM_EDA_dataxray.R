@@ -69,7 +69,6 @@ ggplot(tdt2.freq,aes(x=Site,y=Sumfreq))+
   #facet_wrap(~Site,nrow = 5)+
   theme_bw()+
   theme(axis.text.x = element_text(angle = 90))
-
 #
 #  dataxray  활용 (자료의 양이 많을 경우 시간이 다소 걸림)
 #  Viewer에서 확인 가능
