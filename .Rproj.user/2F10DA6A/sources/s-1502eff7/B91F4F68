@@ -1,26 +1,25 @@
 {
-    "id": "4DCED55C",
-    "path": "~/KRG/OSEAN_R_STUDY/.gitignore",
-    "project_path": ".gitignore",
-    "type": "gitignore",
+    "id": "B91F4F68",
+    "path": null,
+    "project_path": null,
+    "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1675825080694.0,
+    "created": 1675825315120.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
+        "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "26,9",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1675825092,
-    "encoding": "UTF-8",
+    "encoding": "",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675825092236,
+    "last_content_update": 1675825315120,
     "read_only": false,
     "read_only_alternatives": []
 }
